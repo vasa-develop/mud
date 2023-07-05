@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.42.1-next.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @latticexyz/cli@1.42.1-next.0
+  - @latticexyz/network@1.42.1-next.0
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 

@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.42.1-next.0
+
+### Patch Changes
+
+- Updated dependencies [[`086be4ef`](https://github.com/latticexyz/mud/commit/086be4ef4f3c1ecb3eac0e9554d7d4eb64531fc2)]:
+  - @latticexyz/services@1.42.1-next.0
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
